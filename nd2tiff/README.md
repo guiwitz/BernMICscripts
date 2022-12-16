@@ -30,7 +30,7 @@ python nd2tiff.py /path/to/folder/with/nd2files
 If you want to save the converted files to a specific location, you can point to an existing folder with the ```output_folder``` option:
 
 ```bash
-nd2tif.py /path/to/folder/with/nd2files --output-folder path/to/my/existing/output/folder
+python nd2tiff.py /path/to/folder/with/nd2files --output-folder path/to/my/existing/output/folder
 ```
 
 ## Notes
